@@ -1,2 +1,6 @@
 This is dev.
+<<<<<<< HEAD
 Bug Fix.
+=======
+Bug Fix.
+>>>>>>> dev
